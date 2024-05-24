@@ -1,7 +1,7 @@
 <template>
     <div class="input-box">
-        <input type="text" v-model="inputText" placeholder="Type a message..." />
-        <button @click="handleSend">Send</button>
+        <a-input v-model:value="inputText" placeholder="Type a message..." />
+        <a-button @click="handleSend">Send</a-button>
     </div>
 </template>
 

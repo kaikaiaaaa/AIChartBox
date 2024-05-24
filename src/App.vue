@@ -21,11 +21,3 @@ main {
 }
 
 </style>
-
-<!--<template>-->
-<!--	<Chart />-->
-<!--</template>-->
-<!--<script setup>-->
-<!--import Chart from './components/Test.vue'-->
-
-<!--</script>-->
